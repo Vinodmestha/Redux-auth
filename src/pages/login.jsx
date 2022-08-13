@@ -15,6 +15,7 @@ const LoginContainer = () => {
     // };
     React.useEffect(() => {
         handleLogin();
+        console.log("1 hello");
     }, []);
     const handleLogin = () => {
         const url = "https://reqres.in/api/register";
