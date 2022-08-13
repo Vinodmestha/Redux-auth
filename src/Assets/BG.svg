@@ -1,0 +1,38 @@
+<svg width="274" height="632" viewBox="0 0 274 632" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="428" width="204" height="204">
+<circle cx="102" cy="530" r="101" fill="#191922" stroke="#8F8FA3" stroke-width="2"/>
+</mask>
+<g mask="url(#mask0)">
+<line x1="-98.1633" y1="593.731" x2="163.126" y2="332.442" stroke="#EBEBF2" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="-87.6345" y1="604.261" x2="173.654" y2="342.972" stroke="#EBEBF2" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="-77.105" y1="614.789" x2="184.184" y2="353.501" stroke="#EBEBF2" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="-66.5762" y1="625.319" x2="194.713" y2="364.03" stroke="#EBEBF2" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="-56.0466" y1="635.848" x2="205.242" y2="374.559" stroke="#EBEBF2" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="7.12817" y1="699.023" x2="268.417" y2="437.734" stroke="#EBEBF2" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="-45.5178" y1="646.377" x2="215.771" y2="385.088" stroke="#EBEBF2" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="17.6577" y1="709.552" x2="278.947" y2="448.263" stroke="#EBEBF2" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="-34.9883" y1="656.906" x2="226.301" y2="395.617" stroke="#EBEBF2" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="28.1865" y1="720.081" x2="289.475" y2="458.793" stroke="#EBEBF2" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="-24.4587" y1="667.435" x2="236.83" y2="406.147" stroke="#EBEBF2" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="38.7161" y1="730.611" x2="300.005" y2="469.322" stroke="#EBEBF2" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="-13.9299" y1="677.965" x2="247.359" y2="416.676" stroke="#EBEBF2" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="-3.40063" y1="688.494" x2="257.888" y2="427.205" stroke="#EBEBF2" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<mask id="mask1" mask-type="alpha" maskUnits="userSpaceOnUse" x="146" y="0" width="128" height="107">
+<rect x="146" y="0.337891" width="128" height="106.066" fill="#C4C4C4"/>
+</mask>
+<g mask="url(#mask1)">
+<circle cx="159" cy="16.6445" r="3" fill="#EBEBF2"/>
+<circle cx="192" cy="16.6445" r="3" fill="#EBEBF2"/>
+<circle cx="225" cy="16.6445" r="3" fill="#EBEBF2"/>
+<circle cx="258" cy="16.6445" r="3" fill="#EBEBF2"/>
+<circle cx="159" cy="49.6445" r="3" fill="#EBEBF2"/>
+<circle cx="192" cy="49.6445" r="3" fill="#EBEBF2"/>
+<circle cx="225" cy="49.6445" r="3" fill="#EBEBF2"/>
+<circle cx="258" cy="49.6445" r="3" fill="#EBEBF2"/>
+<circle cx="159" cy="82.6445" r="3" fill="#EBEBF2"/>
+<circle cx="192" cy="82.6445" r="3" fill="#EBEBF2"/>
+<circle cx="225" cy="82.6445" r="3" fill="#EBEBF2"/>
+<circle cx="258" cy="82.6445" r="3" fill="#EBEBF2"/>
+</g>
+</svg>
