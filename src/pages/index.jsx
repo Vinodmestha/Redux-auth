@@ -11,16 +11,16 @@ import { Container } from "../components/Layout";
 const LandingComponent = () => {
     return (
         <div>
-            <Navbar />
+            {/* <Navbar />
             <Hero />
-            <Container>
-                <LoginContainer />
-            </Container>
+            <Container> */}
+            <LoginContainer />
+            {/* </Container>
 
             <Categories />
             <Reasons />
             <Pricing />
-            <Footer />
+            <Footer /> */}
         </div>
     );
 };

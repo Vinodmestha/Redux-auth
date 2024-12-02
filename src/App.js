@@ -7,11 +7,11 @@ function App() {
     return (
         <div className="App text-red-600">
             <LandingComponent />
-            <BrowserRouter>
+            {/* <BrowserRouter>
                 <Routes>
                     <Route index element={<LoginContainer />} />
                 </Routes>
-            </BrowserRouter>
+            </BrowserRouter> */}
         </div>
     );
 }
